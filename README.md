@@ -1,4 +1,4 @@
-# Hi There, I'm Ozan! 👋
+# Hi There, I'm Ozan!  👋
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ozan-sert&show_icons=true&theme=radical" />
