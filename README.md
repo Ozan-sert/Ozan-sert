@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between;">
   <img  width="47%" src="https://github-readme-stats.vercel.app/api?username=Ozan-sert&show_icons=true&theme=radical" />
   
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozan-sert&layout=compact" />
+  <img align="right"  width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozan-sert&layout=compact" />
 </div>
 
 ### About Me
