@@ -25,6 +25,6 @@ Feel free to explore my repositories and contributions below. If you have any qu
 
 #### 🌐 Find Me Online
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/Ozan-sert)
 
-Feel free to [**reach out**](mailto:your-email@example.com) if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections!
+Feel free to [**reach out**](mailto:ozansert1993@gmail.com) if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections!
