@@ -20,11 +20,3 @@ I'm a passionate developer with expertise in various technologies. Here are some
 </div>
 
 ---
-
-Feel free to explore my repositories and contributions below. If you have any questions or would like to collaborate, feel free to reach out!
-
-#### 🌐 Find Me Online
-
-- [LinkedIn](https://www.linkedin.com/in/Ozan-sert)
-
-Feel free to [**reach out**](mailto:ozansert1993@gmail.com) if you have any questions or want to collaborate on a project. I'm always open to new opportunities and connections!
